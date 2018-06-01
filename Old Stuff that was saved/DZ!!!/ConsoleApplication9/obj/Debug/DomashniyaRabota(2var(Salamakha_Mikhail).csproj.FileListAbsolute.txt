@@ -1,0 +1,50 @@
+C:\Users\Wolf\Documents\Visual Studio 2012\Projects\ConsoleApplication9\ConsoleApplication9\bin\Debug\ConsoleApplication9.exe.config
+C:\Users\Wolf\Documents\Visual Studio 2012\Projects\ConsoleApplication9\ConsoleApplication9\obj\Debug\ConsoleApplication9.exe
+C:\Users\Wolf\Documents\Visual Studio 2012\Projects\ConsoleApplication9\ConsoleApplication9\obj\Debug\ConsoleApplication9.pdb
+C:\Users\Wolf\Documents\Visual Studio 2012\Projects\ConsoleApplication9\ConsoleApplication9\obj\Debug\DomashniyaRabota(2var(Salamakha_Mikhail).csprojResolveAssemblyReference.cache
+C:\Users\Wolf\Documents\Visual Studio 2012\Projects\ConsoleApplication9\ConsoleApplication9\bin\Debug\ConsoleApplication9.exe
+C:\Users\Wolf\Documents\Visual Studio 2012\Projects\ConsoleApplication9\ConsoleApplication9\bin\Debug\ConsoleApplication9.pdb
+C:\Users\Wolf\Desktop\ConsoleApplication9\ConsoleApplication9\bin\Debug\ConsoleApplication9.exe.config
+C:\Users\Wolf\Desktop\ConsoleApplication9\ConsoleApplication9\obj\Debug\ConsoleApplication9.exe
+C:\Users\Wolf\Desktop\ConsoleApplication9\ConsoleApplication9\obj\Debug\ConsoleApplication9.pdb
+C:\Users\Wolf\Desktop\ConsoleApplication9\ConsoleApplication9\bin\Debug\ConsoleApplication9.exe
+C:\Users\Wolf\Desktop\ConsoleApplication9\ConsoleApplication9\bin\Debug\ConsoleApplication9.pdb
+C:\Users\Wolf\Desktop\ConsoleApplication9\ConsoleApplication9\obj\Debug\DomashniyaRabota(2var(Salamakha_Mikhail).csprojResolveAssemblyReference.cache
+C:\Users\Wolf\Desktop\SalamahaDz\ConsoleApplication9\bin\Debug\ConsoleApplication9.exe.config
+C:\Users\Wolf\Desktop\SalamahaDz\ConsoleApplication9\obj\Debug\ConsoleApplication9.exe
+C:\Users\Wolf\Desktop\SalamahaDz\ConsoleApplication9\obj\Debug\ConsoleApplication9.pdb
+C:\Users\Wolf\Desktop\SalamahaDz\ConsoleApplication9\obj\Debug\DomashniyaRabota(2var(Salamakha_Mikhail).csprojResolveAssemblyReference.cache
+C:\Users\Wolf\Desktop\SalamahaDz\ConsoleApplication9\bin\Debug\ConsoleApplication9.exe
+C:\Users\Wolf\Desktop\SalamahaDz\ConsoleApplication9\bin\Debug\ConsoleApplication9.pdb
+C:\Users\Wolf\Desktop\C#\SalamahaDz\ConsoleApplication9\bin\Debug\ConsoleApplication9.exe.config
+C:\Users\Wolf\Desktop\C#\SalamahaDz\ConsoleApplication9\obj\Debug\ConsoleApplication9.exe
+C:\Users\Wolf\Desktop\C#\SalamahaDz\ConsoleApplication9\obj\Debug\ConsoleApplication9.pdb
+C:\Users\Дмитрий\AppData\Roaming\Skype\My Skype Received Files\SalamahaDz\DZ\ConsoleApplication9\bin\Debug\ConsoleApplication9.exe.config
+C:\Users\Дмитрий\AppData\Roaming\Skype\My Skype Received Files\SalamahaDz\DZ\ConsoleApplication9\obj\Debug\ConsoleApplication9.exe
+C:\Users\Дмитрий\AppData\Roaming\Skype\My Skype Received Files\SalamahaDz\DZ\ConsoleApplication9\obj\Debug\ConsoleApplication9.pdb
+C:\Users\Дмитрий\AppData\Roaming\Skype\My Skype Received Files\SalamahaDz\DZ\ConsoleApplication9\bin\Debug\ConsoleApplication9.exe
+C:\Users\Дмитрий\AppData\Roaming\Skype\My Skype Received Files\SalamahaDz\DZ\ConsoleApplication9\bin\Debug\ConsoleApplication9.pdb
+C:\Users\Дмитрий\AppData\Roaming\Skype\My Skype Received Files\SalamahaDz\DZ\ConsoleApplication9\obj\Debug\DomashniyaRabota(2var(Salamakha_Mikhail).csprojResolveAssemblyReference.cache
+C:\Users\Wolf\Desktop\C#\SalamahaDz\DZ!!!\ConsoleApplication9\bin\Debug\ConsoleApplication9.exe.config
+C:\Users\Wolf\Desktop\C#\SalamahaDz\DZ!!!\ConsoleApplication9\bin\Debug\ConsoleApplication9.exe
+C:\Users\Wolf\Desktop\C#\SalamahaDz\DZ!!!\ConsoleApplication9\bin\Debug\ConsoleApplication9.pdb
+C:\Users\Wolf\Desktop\C#\SalamahaDz\DZ!!!\ConsoleApplication9\obj\Debug\ConsoleApplication9.exe
+C:\Users\Wolf\Desktop\C#\SalamahaDz\DZ!!!\ConsoleApplication9\obj\Debug\ConsoleApplication9.pdb
+C:\Users\Wolf\Desktop\C#\SalamahaDz\DZ!!!\ConsoleApplication9\obj\Debug\DomashniyaRabota(2var(Salamakha_Mikhail).csprojResolveAssemblyReference.cache
+F:\C#\DZ!!!\ConsoleApplication9\bin\Debug\ConsoleApplication9.exe.config
+F:\C#\DZ!!!\ConsoleApplication9\bin\Debug\ConsoleApplication9.exe
+F:\C#\DZ!!!\ConsoleApplication9\bin\Debug\ConsoleApplication9.pdb
+F:\C#\DZ!!!\ConsoleApplication9\obj\Debug\ConsoleApplication9.exe
+F:\C#\DZ!!!\ConsoleApplication9\obj\Debug\ConsoleApplication9.pdb
+C:\Users\Wolf\Desktop\DomashniyaRabotaFull\DZ!!!\ConsoleApplication9\bin\Debug\ConsoleApplication9.exe.config
+C:\Users\Wolf\Desktop\DomashniyaRabotaFull\DZ!!!\ConsoleApplication9\obj\Debug\ConsoleApplication9.exe
+C:\Users\Wolf\Desktop\DomashniyaRabotaFull\DZ!!!\ConsoleApplication9\obj\Debug\ConsoleApplication9.pdb
+F:\C#\DomashniyaRabotaFull\DZ!!!\ConsoleApplication9\bin\Debug\ConsoleApplication9.exe.config
+F:\C#\DomashniyaRabotaFull\DZ!!!\ConsoleApplication9\obj\Debug\ConsoleApplication9.exe
+F:\C#\DomashniyaRabotaFull\DZ!!!\ConsoleApplication9\obj\Debug\ConsoleApplication9.pdb
+C:\Users\Wolf\Desktop\C#\DomashniyaRabotaFull\DZ!!!\ConsoleApplication9\bin\Debug\ConsoleApplication9.exe.config
+C:\Users\Wolf\Desktop\C#\DomashniyaRabotaFull\DZ!!!\ConsoleApplication9\obj\Debug\ConsoleApplication9.exe
+C:\Users\Wolf\Desktop\C#\DomashniyaRabotaFull\DZ!!!\ConsoleApplication9\obj\Debug\ConsoleApplication9.pdb
+F:\DZ!!!\ConsoleApplication9\bin\Debug\ConsoleApplication9.exe.config
+F:\DZ!!!\ConsoleApplication9\obj\Debug\ConsoleApplication9.exe
+F:\DZ!!!\ConsoleApplication9\obj\Debug\ConsoleApplication9.pdb

@@ -1,0 +1,98 @@
+<!--This page is for training-->
+
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Page for training</title>
+    <meta charset="utf-8"/>
+    <link href="TrainingCss.css" rel="stylesheet"/>
+    <link rel="stylesheet" type="text/css" href="slick/slick-theme.css"/>
+    <script src="https://code.jquery.com/jquery-1.10.2.js"></script>
+    <script src="ScriptTraining.js"></script>
+
+    <link rel="stylesheet" type="text/css" href="http://cdn.jsdelivr.net/jquery.slick/1.8.0/slick.css"/>
+    <script type="text/javascript" src="http://cdn.jsdelivr.net/jquery.slick/1.8.0/slick.min.js"></script>
+
+    <link rel="stylesheet" type="text/css" href="slick/slick.css"/>
+    <link rel="stylesheet" type="text/css" href="slick/slick-theme.css"/>
+
+</head>
+<body>
+     <header id="header">This page is for html and css training</header>
+
+ <div class=TextPlay>
+   <p class="normal"><marquee>This <span id="textup">paragraph</span> is <span id="textdown">complitly</span> normal.</marquee></p>
+   <p class="italic">This paragraph is italic.</p>
+   <p class="oblique">This paragraph is oblique.</p>
+ </div>
+
+<p class="justifytest"><strong>Line for justify</strong></p><!--Don't add a lot of simbols it ll crash system....-->
+
+<!--Table play-->
+<table border="1" cellpadding="2" cellspacing="0" style="height: 150px;">
+  <tr>
+     <td class="top">Top</td>
+     <td class="middle">Middle</td>
+     <td class="bottom">Bottom</td>
+  </tr>
+</table>
+
+<!--<div class="main">              *X1
+   <div class="paragraph">
+   This text is aligned to the middle
+   </div>
+</div>-->
+
+<p class="first">
+    Border width of this paragraph is set to 2px.
+</p>
+<p class="second">
+    Border width of this paragraph is set to 5px.
+</p>
+
+<p class="borderimage">
+  This block is for testing border as image.
+</p>
+
+<div><p id="insertingtext"></p></div>
+<center><button class="myButton" onclick="show('block')">Показать окно</button></center>
+<div onclick="show('none')" id="wrap"></div>
+<div id="Hideandshow">
+  <div class="your-class">
+    <div><img src ="vann/23.png" id="imgcaro"></div>
+    <div><img src ="vann/24.png" id="imgcaro"></div>
+    <div><img src ="vann/25.png" id="imgcaro"></div>
+  </div>
+  <div>Описание данного товара, которое очень длинное и т.д.
+  </br>Можно сделать с переносом по желанию</br>
+Либо оставить в строку с авто переносом</div>
+<img class="close" onclick="show('none')" src="http://sergey-oganesyan.ru/wp-content/uploads/2014/01/close.png">
+
+</div>
+
+<script type="text/javascript" src="http://code.jquery.com/jquery-1.11.0.min.js"></script>
+<script type="text/javascript" src="http://code.jquery.com/jquery-migrate-1.2.1.min.js"></script>
+<script type="text/javascript" src="slick/slick.min.js"></script>
+
+<script type="text/javascript">
+  var hem = "</br> Pum. It's end of document.";
+  document.writeln(hem);
+</script>
+
+<script type="text/javascript">
+$(document).ready(function(){
+  $('.your-class').slick({
+    autoplay:true,
+    arrows:false,
+    dots: true,
+      infinite: true,
+      speed: 500,
+      fade: true,
+      cssEase: 'linear'
+  });
+});
+</script>
+
+
+</body>
+</html>

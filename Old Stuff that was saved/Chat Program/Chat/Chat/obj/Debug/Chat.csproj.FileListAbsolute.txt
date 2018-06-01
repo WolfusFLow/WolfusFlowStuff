@@ -1,0 +1,27 @@
+C:\Users\user\Documents\Visual Studio 2012\Projects\Chat\Chat\bin\Debug\Chat.exe.config
+C:\Users\user\Documents\Visual Studio 2012\Projects\Chat\Chat\obj\Debug\Chat.csprojResolveAssemblyReference.cache
+C:\Users\user\Documents\Visual Studio 2012\Projects\Chat\Chat\obj\Debug\Chat.Form1.resources
+C:\Users\user\Documents\Visual Studio 2012\Projects\Chat\Chat\obj\Debug\Chat.Properties.Resources.resources
+C:\Users\user\Documents\Visual Studio 2012\Projects\Chat\Chat\obj\Debug\Chat.csproj.GenerateResource.Cache
+C:\Users\user\Documents\Visual Studio 2012\Projects\Chat\Chat\bin\Debug\Chat.exe
+C:\Users\user\Documents\Visual Studio 2012\Projects\Chat\Chat\bin\Debug\Chat.pdb
+C:\Users\user\Documents\Visual Studio 2012\Projects\Chat\Chat\obj\Debug\Chat.exe
+C:\Users\user\Documents\Visual Studio 2012\Projects\Chat\Chat\obj\Debug\Chat.pdb
+F:\Chat Program\Chat\Chat\bin\Debug\Chat.exe.config
+F:\Chat Program\Chat\Chat\obj\Debug\Chat.exe
+F:\Chat Program\Chat\Chat\obj\Debug\Chat.pdb
+F:\Chat Program\Chat\Chat\bin\Debug\Chat.exe
+F:\Chat Program\Chat\Chat\bin\Debug\Chat.pdb
+F:\Chat Program\Chat\Chat\obj\Debug\Chat.csprojResolveAssemblyReference.cache
+F:\Chat Program\Chat\Chat\obj\Debug\Chat.Form1.resources
+F:\Chat Program\Chat\Chat\obj\Debug\Chat.Properties.Resources.resources
+F:\Chat Program\Chat\Chat\obj\Debug\Chat.csproj.GenerateResource.Cache
+G:\Chat Program\Chat\Chat\bin\Debug\Chat.exe.config
+G:\Chat Program\Chat\Chat\obj\Debug\Chat.exe
+G:\Chat Program\Chat\Chat\obj\Debug\Chat.pdb
+G:\Chat Program\Chat\Chat\bin\Debug\Chat.exe
+G:\Chat Program\Chat\Chat\bin\Debug\Chat.pdb
+G:\Chat Program\Chat\Chat\obj\Debug\Chat.csprojResolveAssemblyReference.cache
+G:\Chat Program\Chat\Chat\obj\Debug\Chat.Form1.resources
+G:\Chat Program\Chat\Chat\obj\Debug\Chat.Properties.Resources.resources
+G:\Chat Program\Chat\Chat\obj\Debug\Chat.csproj.GenerateResource.Cache

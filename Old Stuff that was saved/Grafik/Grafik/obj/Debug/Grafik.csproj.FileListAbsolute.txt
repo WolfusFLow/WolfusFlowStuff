@@ -1,0 +1,21 @@
+c:\users\wolf\documents\visual studio 2012\Projects\Grafik\Grafik\bin\Debug\Grafik.exe.config
+c:\users\wolf\documents\visual studio 2012\Projects\Grafik\Grafik\bin\Debug\Grafik.exe
+c:\users\wolf\documents\visual studio 2012\Projects\Grafik\Grafik\bin\Debug\Grafik.pdb
+c:\users\wolf\documents\visual studio 2012\Projects\Grafik\Grafik\obj\Debug\Grafik.csprojResolveAssemblyReference.cache
+c:\users\wolf\documents\visual studio 2012\Projects\Grafik\Grafik\obj\Debug\Grafik.exe
+c:\users\wolf\documents\visual studio 2012\Projects\Grafik\Grafik\obj\Debug\Grafik.pdb
+C:\Users\Wolf\Desktop\DomashniyaRabotaFull\Grafik\Grafik\bin\Debug\Grafik.exe.config
+C:\Users\Wolf\Desktop\DomashniyaRabotaFull\Grafik\Grafik\bin\Debug\Grafik.exe
+C:\Users\Wolf\Desktop\DomashniyaRabotaFull\Grafik\Grafik\bin\Debug\Grafik.pdb
+C:\Users\Wolf\Desktop\DomashniyaRabotaFull\Grafik\Grafik\obj\Debug\Grafik.csprojResolveAssemblyReference.cache
+C:\Users\Wolf\Desktop\DomashniyaRabotaFull\Grafik\Grafik\obj\Debug\Grafik.exe
+C:\Users\Wolf\Desktop\DomashniyaRabotaFull\Grafik\Grafik\obj\Debug\Grafik.pdb
+F:\C#\DomashniyaRabotaFull\Grafik\Grafik\bin\Debug\Grafik.exe.config
+F:\C#\DomashniyaRabotaFull\Grafik\Grafik\bin\Debug\Grafik.exe
+F:\C#\DomashniyaRabotaFull\Grafik\Grafik\bin\Debug\Grafik.pdb
+F:\C#\DomashniyaRabotaFull\Grafik\Grafik\obj\Debug\ResolveAssemblyReference.cache
+F:\C#\DomashniyaRabotaFull\Grafik\Grafik\obj\Debug\Grafik.exe
+F:\C#\DomashniyaRabotaFull\Grafik\Grafik\obj\Debug\Grafik.pdb
+C:\Users\Wolf\Desktop\C#\DomashniyaRabotaFull\Grafik\Grafik\bin\Debug\Grafik.exe.config
+C:\Users\Wolf\Desktop\C#\DomashniyaRabotaFull\Grafik\Grafik\obj\Debug\Grafik.exe
+C:\Users\Wolf\Desktop\C#\DomashniyaRabotaFull\Grafik\Grafik\obj\Debug\Grafik.pdb

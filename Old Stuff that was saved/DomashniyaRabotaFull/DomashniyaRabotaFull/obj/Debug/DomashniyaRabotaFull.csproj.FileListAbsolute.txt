@@ -1,0 +1,25 @@
+c:\users\wolf\documents\visual studio 2012\Projects\DomashniyaRabotaFull\DomashniyaRabotaFull\bin\Debug\DomashniyaRabotaFull.exe.config
+C:\Users\Wolf\Desktop\DomashniyaRabotaFull\DomashniyaRabotaFull\DomashniyaRabotaFull\bin\Debug\DomashniyaRabotaFull.exe.config
+C:\Users\Wolf\Desktop\DomashniyaRabotaFull\DomashniyaRabotaFull\DomashniyaRabotaFull\obj\Debug\DomashniyaRabotaFull.csprojResolveAssemblyReference.cache
+F:\C#\DomashniyaRabotaFull\DomashniyaRabotaFull\DomashniyaRabotaFull\bin\Debug\DomashniyaRabotaFull.exe.config
+F:\C#\DomashniyaRabotaFull\DomashniyaRabotaFull\DomashniyaRabotaFull\obj\Debug\ResolveAssemblyReference.cache
+F:\C#\DomashniyaRabotaFull\DomashniyaRabotaFull\DomashniyaRabotaFull\bin\Debug\DomashniyaRabotaFull.exe
+F:\C#\DomashniyaRabotaFull\DomashniyaRabotaFull\DomashniyaRabotaFull\bin\Debug\DomashniyaRabotaFull.pdb
+F:\C#\DomashniyaRabotaFull\DomashniyaRabotaFull\DomashniyaRabotaFull\bin\Debug\Grafik.exe
+F:\C#\DomashniyaRabotaFull\DomashniyaRabotaFull\DomashniyaRabotaFull\bin\Debug\Grafik.pdb
+F:\C#\DomashniyaRabotaFull\DomashniyaRabotaFull\DomashniyaRabotaFull\obj\Debug\DomashniyaRabotaFull.exe
+F:\C#\DomashniyaRabotaFull\DomashniyaRabotaFull\DomashniyaRabotaFull\obj\Debug\DomashniyaRabotaFull.pdb
+C:\Users\Wolf\Desktop\DomashniyaRabotaFull\DomashniyaRabotaFull\DomashniyaRabotaFull\obj\Debug\DomashniyaRabotaFull.exe
+C:\Users\Wolf\Desktop\DomashniyaRabotaFull\DomashniyaRabotaFull\DomashniyaRabotaFull\obj\Debug\DomashniyaRabotaFull.pdb
+C:\Users\Wolf\Desktop\DomashniyaRabotaFull\DomashniyaRabotaFull\DomashniyaRabotaFull\bin\Debug\DomashniyaRabotaFull.exe
+C:\Users\Wolf\Desktop\DomashniyaRabotaFull\DomashniyaRabotaFull\DomashniyaRabotaFull\bin\Debug\DomashniyaRabotaFull.pdb
+C:\Users\Wolf\Desktop\DomashniyaRabotaFull\DomashniyaRabotaFull\DomashniyaRabotaFull\bin\Debug\Grafik.exe
+C:\Users\Wolf\Desktop\DomashniyaRabotaFull\DomashniyaRabotaFull\DomashniyaRabotaFull\bin\Debug\Grafik.pdb
+C:\Users\Wolf\Desktop\C#\DomashniyaRabotaFull\DomashniyaRabotaFull\DomashniyaRabotaFull\bin\Debug\DomashniyaRabotaFull.exe.config
+C:\Users\Wolf\Desktop\C#\DomashniyaRabotaFull\DomashniyaRabotaFull\DomashniyaRabotaFull\obj\Debug\DomashniyaRabotaFull.exe
+C:\Users\Wolf\Desktop\C#\DomashniyaRabotaFull\DomashniyaRabotaFull\DomashniyaRabotaFull\obj\Debug\DomashniyaRabotaFull.pdb
+C:\Users\Wolf\Desktop\C#\DomashniyaRabotaFull\DomashniyaRabotaFull\DomashniyaRabotaFull\bin\Debug\DomashniyaRabotaFull.exe
+C:\Users\Wolf\Desktop\C#\DomashniyaRabotaFull\DomashniyaRabotaFull\DomashniyaRabotaFull\bin\Debug\DomashniyaRabotaFull.pdb
+C:\Users\Wolf\Desktop\C#\DomashniyaRabotaFull\DomashniyaRabotaFull\DomashniyaRabotaFull\bin\Debug\Grafik.exe
+C:\Users\Wolf\Desktop\C#\DomashniyaRabotaFull\DomashniyaRabotaFull\DomashniyaRabotaFull\bin\Debug\Grafik.pdb
+C:\Users\Wolf\Desktop\C#\DomashniyaRabotaFull\DomashniyaRabotaFull\DomashniyaRabotaFull\obj\Debug\DomashniyaRabotaFull.csprojResolveAssemblyReference.cache

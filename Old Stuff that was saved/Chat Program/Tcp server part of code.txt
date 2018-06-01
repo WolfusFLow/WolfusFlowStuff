@@ -1,0 +1,98 @@
+     void MessageServer()
+       {
+        TCPMesLis = new TcpListener(7000);// открываем порт
+        TCPMesLis.Start();// начинаем сканирование
+            
+       while (true)
+        {
+         try
+          {
+           MSocket = TCPMesLis.AcceptSocket();//Принимаем запрос на подключение
+           MNetStrm = new NetworkStream(MSocket);//связываем
+          
+           byte[ ] buffer = new byte[ 1024];//считываем
+           MNetStrm.Read(buffer, 0 , 1024 );
+           MemoryStream ms = new MemoryStream(buffer);
+          
+          
+           tempRichText.LoadFile(ms, RichTextBoxStreamType.RichText);//сохраняем в текстовое поле (временное )
+           //Его можно объявить и сразу проинициализировать в переменных класса, как RichTextBox tempRichText = new RichTextBox();
+           tempRichText.Text += ''\
+    '' ;//Добавляем перевод строки
+           ChatBox.Text += tempRichText.Text;//Выводим сообщение
+           /* еще один способ получить информацию.
+           * В этом случае необходимо учесть, что к текстовой информации может
+           * добавляться информация о стиле тексте, шрифте и т.д.*/
+           for (int i = 0 ; i < buffer.Length; i++)
+            ChatBox.Text += (char)buffer[i];
+         }
+             catch (Exception) { }//сюда можно внести обработку исключений.
+        }
+       } 
+
+
+
+
+
+
+
+.....
+
+Thread MThrd = new Thread(new System.Threading.ThreadStart(MessageServer));
+    MThrd.Start();//запускае поток на исполнение. 
+
+......
+
+
+
+
+
+
+
+
+
+     private void Send_Click(object sender, EventArgs e)
+       {
+        try
+         {
+           //Предоставляет клиентские подключения для сетевых служб протокола TCP.
+         TcpClient Client;
+         Client = new TcpClient(IPConnect.Text, 7000 );//открыли подключение
+         NetworkStream ClientMNetworkS = Client.GetStream();//получили поток (для записи)
+         MemoryStream ClientMemoryS = new MemoryStream();
+         ChatBox.Text += "\
+    Вы:" + ChatMessage.Text;//скопировали в чат-окно свое сообщение
+         //сюда можно добавить сопроводительную информацию (с какого IP было отправлено, либо с какой учетной записи и т.д.)
+         //подобные изменения проводятся с ChatMessage
+         ChatMessage.SaveFile(ClientMemoryS, RichTextBoxStreamType.RichText);//сохранили информацию в MemoryStream
+         ClientMNetworkS.Write(ClientMemoryS.ToArray(), 0 , ClientMemoryS.ToArray().Length);//записали
+         //закрываем потоки, подключения
+         ClientMNetworkS.Close();
+         Client.Close();
+         //отправленное сообщение очищаем
+         ChatMessage.Clear();
+        }
+        catch (Exception ex)
+        {//если порт не прослушивается на сервере (не было ответа), либо произошла стороння ситуация - уведомим ошибкой
+         MessageBox.Show(ex.Message);
+        }
+       } 
+
+
+
+
+
+
+
+
+
+.........
+
+
+
+
+
+
+
+
+

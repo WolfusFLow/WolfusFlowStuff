@@ -1,0 +1,43 @@
+c:\users\wolf\documents\visual studio 2015\Projects\Resepies\Resepies\bin\Debug\Resepies.exe.config
+C:\Users\Wolf\Documents\Visual Studio 2015\Projects\Resepies\Resepies\bin\Debug\Database1.mdf
+C:\Users\Wolf\Documents\Visual Studio 2015\Projects\Resepies\Resepies\bin\Debug\Database1_log.ldf
+C:\Users\Wolf\Documents\Visual Studio 2015\Projects\Resepies\Resepies\bin\Debug\Resepies.exe
+C:\Users\Wolf\Documents\Visual Studio 2015\Projects\Resepies\Resepies\bin\Debug\Resepies.pdb
+C:\Users\Wolf\Documents\Visual Studio 2015\Projects\Resepies\Resepies\obj\Debug\Resepies.csprojResolveAssemblyReference.cache
+C:\Users\Wolf\Documents\Visual Studio 2015\Projects\Resepies\Resepies\obj\Debug\Resepies.Form1.resources
+C:\Users\Wolf\Documents\Visual Studio 2015\Projects\Resepies\Resepies\obj\Debug\Resepies.Properties.Resources.resources
+C:\Users\Wolf\Documents\Visual Studio 2015\Projects\Resepies\Resepies\obj\Debug\Resepies.csproj.GenerateResource.Cache
+C:\Users\Wolf\Documents\Visual Studio 2015\Projects\Resepies\Resepies\obj\Debug\Resepies.exe
+C:\Users\Wolf\Documents\Visual Studio 2015\Projects\Resepies\Resepies\obj\Debug\Resepies.pdb
+C:\Users\Wolf\Desktop\Resepies\Resepies\bin\Debug\Resepies.exe.config
+C:\Users\Wolf\Desktop\Resepies\Resepies\obj\Debug\Resepies.exe
+C:\Users\Wolf\Desktop\Resepies\Resepies\obj\Debug\Resepies.pdb
+C:\Users\Wolf\Desktop\Resepies\Resepies\bin\Debug\Database1.mdf
+C:\Users\Wolf\Desktop\Resepies\Resepies\bin\Debug\Database1_log.ldf
+C:\Users\Wolf\Desktop\Resepies\Resepies\bin\Debug\Resepies.exe
+C:\Users\Wolf\Desktop\Resepies\Resepies\bin\Debug\Resepies.pdb
+C:\Users\Wolf\Desktop\Resepies\Resepies\bin\Debug\DbDataSource.dll
+C:\Users\Wolf\Desktop\Resepies\Resepies\bin\Debug\EntityFramework.dll
+C:\Users\Wolf\Desktop\Resepies\Resepies\bin\Debug\ModelDataSource.dll
+C:\Users\Wolf\Desktop\Resepies\Resepies\bin\Debug\DbDataSource.pdb
+C:\Users\Wolf\Desktop\Resepies\Resepies\bin\Debug\EntityFramework.xml
+C:\Users\Wolf\Desktop\Resepies\Resepies\obj\Debug\Resepies.csprojResolveAssemblyReference.cache
+C:\Users\Wolf\Desktop\Resepies\Resepies\obj\Debug\Resepies.Main.resources
+C:\Users\Wolf\Desktop\Resepies\Resepies\obj\Debug\Resepies.Properties.Resources.resources
+C:\Users\Wolf\Desktop\Resepies\Resepies\obj\Debug\Resepies.csproj.GenerateResource.Cache
+E:\Rab Stol\Для пк и программирования\Программирование\C#+Sql progi\Resepies\Resepies\bin\Debug\Database1.mdf
+E:\Rab Stol\Для пк и программирования\Программирование\C#+Sql progi\Resepies\Resepies\bin\Debug\Database1_log.ldf
+E:\Rab Stol\Для пк и программирования\Программирование\C#+Sql progi\Resepies\Resepies\bin\Debug\Resepies.exe.config
+E:\Rab Stol\Для пк и программирования\Программирование\C#+Sql progi\Resepies\Resepies\bin\Debug\Resepies.exe
+E:\Rab Stol\Для пк и программирования\Программирование\C#+Sql progi\Resepies\Resepies\bin\Debug\Resepies.pdb
+E:\Rab Stol\Для пк и программирования\Программирование\C#+Sql progi\Resepies\Resepies\bin\Debug\DbDataSource.dll
+E:\Rab Stol\Для пк и программирования\Программирование\C#+Sql progi\Resepies\Resepies\bin\Debug\EntityFramework.dll
+E:\Rab Stol\Для пк и программирования\Программирование\C#+Sql progi\Resepies\Resepies\bin\Debug\ModelDataSource.dll
+E:\Rab Stol\Для пк и программирования\Программирование\C#+Sql progi\Resepies\Resepies\bin\Debug\DbDataSource.pdb
+E:\Rab Stol\Для пк и программирования\Программирование\C#+Sql progi\Resepies\Resepies\bin\Debug\EntityFramework.xml
+E:\Rab Stol\Для пк и программирования\Программирование\C#+Sql progi\Resepies\Resepies\obj\Debug\Resepies.csprojResolveAssemblyReference.cache
+E:\Rab Stol\Для пк и программирования\Программирование\C#+Sql progi\Resepies\Resepies\obj\Debug\Resepies.Main.resources
+E:\Rab Stol\Для пк и программирования\Программирование\C#+Sql progi\Resepies\Resepies\obj\Debug\Resepies.Properties.Resources.resources
+E:\Rab Stol\Для пк и программирования\Программирование\C#+Sql progi\Resepies\Resepies\obj\Debug\Resepies.csproj.GenerateResource.Cache
+E:\Rab Stol\Для пк и программирования\Программирование\C#+Sql progi\Resepies\Resepies\obj\Debug\Resepies.exe
+E:\Rab Stol\Для пк и программирования\Программирование\C#+Sql progi\Resepies\Resepies\obj\Debug\Resepies.pdb
