@@ -1,0 +1,9 @@
+c:\users\wolf\documents\visual studio 2015\Projects\Grafik\Grafik\bin\Debug\Grafik.exe.config
+c:\users\wolf\documents\visual studio 2015\Projects\Grafik\Grafik\obj\Debug\Grafik.csprojResolveAssemblyReference.cache
+c:\users\wolf\documents\visual studio 2015\Projects\Grafik\Grafik\obj\Debug\Grafik.Form1.resources
+c:\users\wolf\documents\visual studio 2015\Projects\Grafik\Grafik\obj\Debug\Grafik.Properties.Resources.resources
+c:\users\wolf\documents\visual studio 2015\Projects\Grafik\Grafik\obj\Debug\Grafik.csproj.GenerateResource.Cache
+c:\users\wolf\documents\visual studio 2015\Projects\Grafik\Grafik\bin\Debug\Grafik.exe
+c:\users\wolf\documents\visual studio 2015\Projects\Grafik\Grafik\bin\Debug\Grafik.pdb
+c:\users\wolf\documents\visual studio 2015\Projects\Grafik\Grafik\obj\Debug\Grafik.exe
+c:\users\wolf\documents\visual studio 2015\Projects\Grafik\Grafik\obj\Debug\Grafik.pdb

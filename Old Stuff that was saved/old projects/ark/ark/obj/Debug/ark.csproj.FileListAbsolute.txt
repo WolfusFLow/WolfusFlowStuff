@@ -1,0 +1,9 @@
+c:\users\wolf\documents\visual studio 2015\Projects\ark\ark\bin\Debug\ark.exe.config
+c:\users\wolf\documents\visual studio 2015\Projects\ark\ark\bin\Debug\ark.exe
+c:\users\wolf\documents\visual studio 2015\Projects\ark\ark\bin\Debug\ark.pdb
+c:\users\wolf\documents\visual studio 2015\Projects\ark\ark\obj\Debug\ark.csprojResolveAssemblyReference.cache
+c:\users\wolf\documents\visual studio 2015\Projects\ark\ark\obj\Debug\ark.Form1.resources
+c:\users\wolf\documents\visual studio 2015\Projects\ark\ark\obj\Debug\ark.Properties.Resources.resources
+c:\users\wolf\documents\visual studio 2015\Projects\ark\ark\obj\Debug\ark.csproj.GenerateResource.Cache
+c:\users\wolf\documents\visual studio 2015\Projects\ark\ark\obj\Debug\ark.exe
+c:\users\wolf\documents\visual studio 2015\Projects\ark\ark\obj\Debug\ark.pdb

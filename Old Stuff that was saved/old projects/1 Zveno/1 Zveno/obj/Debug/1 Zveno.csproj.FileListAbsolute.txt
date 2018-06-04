@@ -1,0 +1,22 @@
+c:\users\wolf\documents\visual studio 2015\Projects\1 Zveno\1 Zveno\bin\Debug\1 Zveno.exe.config
+c:\users\wolf\documents\visual studio 2015\Projects\1 Zveno\1 Zveno\bin\Debug\1 Zveno.exe
+c:\users\wolf\documents\visual studio 2015\Projects\1 Zveno\1 Zveno\bin\Debug\1 Zveno.pdb
+c:\users\wolf\documents\visual studio 2015\Projects\1 Zveno\1 Zveno\obj\Debug\1 Zveno.csprojResolveAssemblyReference.cache
+c:\users\wolf\documents\visual studio 2015\Projects\1 Zveno\1 Zveno\obj\Debug\_1_Zveno.Form1.resources
+c:\users\wolf\documents\visual studio 2015\Projects\1 Zveno\1 Zveno\obj\Debug\_1_Zveno.Properties.Resources.resources
+c:\users\wolf\documents\visual studio 2015\Projects\1 Zveno\1 Zveno\obj\Debug\1 Zveno.csproj.GenerateResource.Cache
+c:\users\wolf\documents\visual studio 2015\Projects\1 Zveno\1 Zveno\obj\Debug\1 Zveno.exe
+c:\users\wolf\documents\visual studio 2015\Projects\1 Zveno\1 Zveno\obj\Debug\1 Zveno.pdb
+c:\users\wolf\documents\visual studio 2015\Projects\1 Zveno\1 Zveno\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+c:\users\wolf\documents\visual studio 2015\Projects\1 Zveno\1 Zveno\bin\Debug\Microsoft.SqlServer.Types.dll
+c:\users\wolf\documents\visual studio 2015\Projects\1 Zveno\1 Zveno\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+c:\users\wolf\documents\visual studio 2015\Projects\1 Zveno\1 Zveno\bin\Debug\de\Microsoft.SqlServer.Types.resources.dll
+c:\users\wolf\documents\visual studio 2015\Projects\1 Zveno\1 Zveno\bin\Debug\es\Microsoft.SqlServer.Types.resources.dll
+c:\users\wolf\documents\visual studio 2015\Projects\1 Zveno\1 Zveno\bin\Debug\fr\Microsoft.SqlServer.Types.resources.dll
+c:\users\wolf\documents\visual studio 2015\Projects\1 Zveno\1 Zveno\bin\Debug\it\Microsoft.SqlServer.Types.resources.dll
+c:\users\wolf\documents\visual studio 2015\Projects\1 Zveno\1 Zveno\bin\Debug\ja\Microsoft.SqlServer.Types.resources.dll
+c:\users\wolf\documents\visual studio 2015\Projects\1 Zveno\1 Zveno\bin\Debug\ko\Microsoft.SqlServer.Types.resources.dll
+c:\users\wolf\documents\visual studio 2015\Projects\1 Zveno\1 Zveno\bin\Debug\pt\Microsoft.SqlServer.Types.resources.dll
+c:\users\wolf\documents\visual studio 2015\Projects\1 Zveno\1 Zveno\bin\Debug\ru\Microsoft.SqlServer.Types.resources.dll
+c:\users\wolf\documents\visual studio 2015\Projects\1 Zveno\1 Zveno\bin\Debug\zh-Hans\Microsoft.SqlServer.Types.resources.dll
+c:\users\wolf\documents\visual studio 2015\Projects\1 Zveno\1 Zveno\bin\Debug\zh-Hant\Microsoft.SqlServer.Types.resources.dll
