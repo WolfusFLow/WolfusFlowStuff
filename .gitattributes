@@ -1,0 +1,3 @@
+*.psd1 linguist-language=C#
+*.ps1 linguist-language=C#
+*.psm1 linguist-language=C#
